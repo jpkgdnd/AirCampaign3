@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: AirCampThree.github.io
+  baseUrl: AirCampThree.github.io/AirCampaign3
   ignorePatterns:
     - private
     - templates
