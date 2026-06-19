@@ -1,0 +1,3 @@
+Magical forces often bound to ideas, places, concepts. Some may materialize and communicate with peoples for various reasons. Some stay hidden letting their nature remain a mystery. Some spirits have been known to be in control of sources of [[Elementals]]. The most widely known may be inhabiting the [[Grubfoot New Horizons|Volcano]] which is now home to the [[The Grubfoot Coalition]]
+
+tags:[Force]

@@ -1,0 +1,3 @@
+In this time where the [[Eyrie Alliance]] was busy with the [[Beastfolk Rebellion]] and the [[Dragonborn Conquest]]. The [[Elf]] people, still displaced and in search of refuge, found a new home under the Eyries' nose. A place of great natural springs, home of many monkastic [[Birdfolk|Crane]]s. Home of a great water [[Spirits]]. This land was perfect for the elves, and its natives quickly warmed to their naturistic and gentle ways. 
+
+tag: [History]

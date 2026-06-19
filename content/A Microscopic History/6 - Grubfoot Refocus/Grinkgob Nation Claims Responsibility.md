@@ -1,0 +1,1 @@
+[[GrinkGob Nation]] claims responsibility for an attack on a [[The Grubfoot Coalition]] research and engineering facility.
