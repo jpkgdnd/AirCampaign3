@@ -1,2 +1,0 @@
-[Groups]
-[[The Grand Consortium]]

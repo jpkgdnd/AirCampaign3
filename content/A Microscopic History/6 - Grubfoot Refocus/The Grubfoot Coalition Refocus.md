@@ -1,3 +1,3 @@
-After a long period of losses to various other factions, [[Border Skirmishing]] with the [[Eyrie Alliance]]. Loss of many border colonies thanks to the [[Draconic Empire]]s [[Dragonborn Conquest]]. [[The Grubfoot Coalition]] now focus on advancement of technology and industry, exploration of distant skylands and old world [[ruins]] via their [[The Grand College of Daring Explorers]]. Their main focus now seems to be experiments with the [[Storm]].
+After a long period of losses to various other factions, [[Border Skirmishing]] with the [[Eyrie Alliance]]. Loss of many border colonies thanks to the [[Draconic Empire]]s [[Dragonborn Conquest]]. [[The Grubfoot Coalition]] now focus on advancement of technology and industry, exploration of distant skylands and old world [[Ruins]] via their [[The Grand College of Daring Explorers]]. Their main focus now seems to be experiments with the [[Storm]].
 
 tag: [History]
