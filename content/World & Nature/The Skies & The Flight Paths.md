@@ -4,4 +4,4 @@ Toward the end of the war between [[Draconic Empire]] and the [[Eyrie Alliance]]
 
 Travel within the airways is protected by the [[Grand Consortium Defence Network]] and visibility is consistent due to the strong winds. 
 
-Travel outside of the lanes with this new technology still carries all the old threats, clouds, debris and of course, dragons.
+Travel outside of the lanes with this new technology caries threats, even more so when visiting the [[Shrouds]]
